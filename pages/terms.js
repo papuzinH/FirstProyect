@@ -2,7 +2,7 @@ import React from 'react'
 
 const terms = () => {
   return (
-    <div>terms</div>
+    <div>terms and conditions</div>
   )
 }
 
